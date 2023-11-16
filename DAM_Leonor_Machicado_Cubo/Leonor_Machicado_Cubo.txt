@@ -1,5 +1,0 @@
-He elejido los ejercicios por estas razones:
-El de Sistemas porque fue el primero que hicimos.
-El de Bases de Datos porque fue el primero que vi.
-El de Lenguaje de Marcas porque me pareció el más simple.
-El de Programación porque me gustó hacer es ejercicio.# repositoryPrueba
