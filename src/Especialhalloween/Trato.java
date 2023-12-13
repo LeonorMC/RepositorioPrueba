@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package JueguitoBonito;
+package Especialhalloween;
 
 /**
  *
- * @author joel patricia y leonor
+ * @author developer
  */
-public class Tarjeta {
+public class Trato {
     
 }
